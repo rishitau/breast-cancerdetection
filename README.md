@@ -47,7 +47,7 @@ run breast_cancer.m
 To run the code, type `python B_Cancer.py`
 
 ```
-python B_Cancer.py
+python b_Cancer.py
 ```
 
 
